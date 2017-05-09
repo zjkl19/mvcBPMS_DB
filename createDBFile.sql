@@ -4,10 +4,10 @@
 create database BPMSx
 on(
 name=桥隧项目管理系统,
-filename='D:\建科院移动办公\桥隧项目管理系统\BPMSx.mdf'
+filename='e:\sqldb\BPMSx.mdf'
 )
 log on(
 name=桥隧项目管理系统_log,
-filename='D:\建科院移动办公\桥隧项目管理系统\BPMSx_log.mdf'
+filename='e:\sqldb\BPMSx_log.mdf'
 )
 
